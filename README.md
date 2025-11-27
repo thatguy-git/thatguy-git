@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @thatguy-git
-- 👀 I’m love Artificial Intelligence
-- 🌱 I’m currently teaching machines to learn
-- 💞️ I’m looking to collaborate with passionate individuals in the field of Machine Learning
-- 📫 You can reach me via mail @davidkiing1400@gmail.com, or Twitter - @thatXguy_
+- 👋 Hi, I’m @thatguy
+- 👀 I really really, really love computers
+- 🌱 I’m currently teaching machines to learn and making web applications
+- 💞️ I’m looking to collaborate with nerds
+- 📫 You can reach me via mail- @davidkiing1400@gmail.com or Twitter- @thatXguy_
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm still trying to figure out how Github works
+- 🤓 Fun fact: High energy protons from a supernova can travel across the galaxy and into earth's atmosphere then scatter into sub atomic particles and occasionally can pass through your computer and strike a specific silicon transistor in your RAM with enough energy to flip a single bit from a 0 to a 1.
 
-<!---
-thatguy-git/thatguy-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
